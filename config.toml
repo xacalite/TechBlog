@@ -2,3 +2,12 @@ baseURL = 'http://klue-tech-blog.com/'
 languageCode = 'en-us'
 title = 'Klue Tech Blog'
 theme = "ananke"
+
+
+[params]
+   text_color = "bg-white"
+   author = "Kaywin"
+   favicon = "images/klue-favicon.png"   
+   site_logo = "images/klue-logo-small.png"
+   background_color_class = "bg-black"
+
