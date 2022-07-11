@@ -1,4 +1,4 @@
-baseURL = 'http://klue-tech-blog.com/'
+baseURL = 'https://xacalite.github.io/TechBlog'
 languageCode = 'en-us'
 title = 'Klue Tech Blog'
 theme = "ananke"
