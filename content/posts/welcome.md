@@ -10,7 +10,7 @@ omit_header_text: true
 
 ## Klue Engineering's Technical Blog is now online!
 
-![Hello-world.png](media_Welcome%20to%20the%20Klue%20Tech%20Blog/Hello-world.png)
+![Hello world:)](welcome.png)
 
 The engineering team working on Klue's competitive enablement software platform have a diverse amount of knowledge to share.
 
@@ -26,8 +26,8 @@ In this space, you can look forward to the following:
 -   Tips and tricks on how to make the most of Klue tech
 
 ```javascript
-foreach (Engineer in Team) {
-  Shout ("Cheer! ♥♥♥")
+foreach (Engineer in KlueTeam) {
+  Shout ("Cheer! ♥♥♥");
 }
 ```
 
