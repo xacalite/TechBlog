@@ -5,6 +5,5 @@ theme = "ananke"
 
 
 [params]
-   author = "Kaywin"
    favicon = "images/klue-favicon.png"   
    site_logo = "images/klue-logo-small.png"
