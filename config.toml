@@ -8,6 +8,7 @@ theme = "ananke"
    favicon = "images/klue-favicon.png"   
    site_logo = "images/klue-logo-small.png"
    omit_header_text = true
+   body_classes = "helvetica bg-near-white"
 
 [[params.ananke_socials]]
 name = "linkedin"
