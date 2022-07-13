@@ -8,3 +8,19 @@ theme = "ananke"
    favicon = "images/klue-favicon.png"   
    site_logo = "images/klue-logo-small.png"
    omit_header_text = true
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/klue"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/kluein"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/kluein/"
+
+
+
+
