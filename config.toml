@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Klue Tech Blog'
 theme = "ananke"
 
-
 [params]
    favicon = "images/klue-favicon.png"   
    site_logo = "images/klue-logo-small.png"
